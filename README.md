@@ -1,2 +1,2 @@
-# hello-world
-Description
+# hello-world project
+Description for this project.
